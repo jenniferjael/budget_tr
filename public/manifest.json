@@ -1,0 +1,20 @@
+{
+    "name": "Budget Tracker",
+    "short_name": "Budget Tracker",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#fff",
+    "description": "App to keep track of added/subtracted funds.",
+    "icons": [
+        {
+            "src": "icons/icon-192X192.png",
+            "sizes": "192X192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon-512X512.png",
+            "sizes": "512X512",
+            "type": "image/png"
+        }
+    ]
+}
